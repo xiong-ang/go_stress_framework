@@ -9,7 +9,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"go_stress_framework/stress_framework"
+	"github.com/xiong-ang/go_stress_framework/stress_framework"
 )
 
 func main() {

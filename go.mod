@@ -1,4 +1,4 @@
-module go_stress_framework
+module github.com/xiong-ang/go_stress_framework
 
 go 1.17
 
